@@ -14,6 +14,8 @@
 		9CD9B7BF271EF1030053F3F7 /* faviorteMovie.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9CD9B7BD271EF1030053F3F7 /* faviorteMovie.xcdatamodeld */; };
 		9CD9B7C1271EF1050053F3F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD9B7C0271EF1050053F3F7 /* Assets.xcassets */; };
 		9CD9B7C4271EF1050053F3F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CD9B7C2271EF1050053F3F7 /* LaunchScreen.storyboard */; };
+		9CD9B7CC271EF4020053F3F7 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD9B7CB271EF4020053F3F7 /* ViewController2.swift */; };
+		9CD9B7CE271EF8DE0053F3F7 /* MovieClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD9B7CD271EF8DE0053F3F7 /* MovieClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9CD9B7C0271EF1050053F3F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CD9B7C3271EF1050053F3F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CD9B7C5271EF1050053F3F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CD9B7CB271EF4020053F3F7 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		9CD9B7CD271EF8DE0053F3F7 /* MovieClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		9CD9B7A8271EF1030053F3F7 = {
 			isa = PBXGroup;
 			children = (
+				9CD9B7CD271EF8DE0053F3F7 /* MovieClass.swift */,
+				9CD9B7CB271EF4020053F3F7 /* ViewController2.swift */,
 				9CD9B7B3271EF1030053F3F7 /* faviorteMovie */,
 				9CD9B7B2271EF1030053F3F7 /* Products */,
 			);
@@ -141,6 +147,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CD9B7CC271EF4020053F3F7 /* ViewController2.swift in Sources */,
+				9CD9B7CE271EF8DE0053F3F7 /* MovieClass.swift in Sources */,
 				9CD9B7B9271EF1030053F3F7 /* ViewController.swift in Sources */,
 				9CD9B7B5271EF1030053F3F7 /* AppDelegate.swift in Sources */,
 				9CD9B7BF271EF1030053F3F7 /* faviorteMovie.xcdatamodeld in Sources */,
